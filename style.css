@@ -693,3 +693,61 @@ section:not(.hero) h2 {
     }
 
 }
+
+
+/* =========================
+   REMOVE REMAINING BLUE
+========================= */
+
+/* Header */
+.header {
+    background: rgba(245, 243, 238, 0.95);
+    border-bottom: 1px solid #DEDCD3;
+}
+
+/* Logo and navigation */
+.logo {
+    color: #252720;
+}
+
+.nav-links a {
+    color: #4B4C45;
+}
+
+.nav-links a:hover {
+    color: #747B60;
+}
+
+/* Hero subtitle */
+.hero h2 {
+    color: #77786F;
+}
+
+/* Profile image */
+.hero-image {
+    border: 1px solid #DEDCD3;
+    box-shadow: 0 12px 30px rgba(37, 39, 32, 0.08);
+}
+
+/* Buttons */
+.primary-btn {
+    background: #747B60;
+    border-color: #747B60;
+    color: #FFFFFF;
+}
+
+.primary-btn:hover {
+    background: #62694F;
+}
+
+.secondary-btn {
+    background: transparent;
+    border: 1px solid #B8B6AC;
+    color: #252720;
+}
+
+.secondary-btn:hover {
+    background: #EBE9E2;
+    border-color: #747B60;
+    color: #252720;
+}
