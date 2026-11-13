@@ -4,14 +4,14 @@
 ========================= */
 
 :root {
-    --background: #080f1f;
-    --surface: #111d32;
-    --surface-light: #172943;
-    --blue: #3b82f6;
-    --blue-light: #60a5fa;
-    --white: #f8fafc;
-    --muted: #a8b8d0;
-    --border: #263852;
+    --background: #F5F3EE;
+    --surface: #FFFFFF;
+    --surface-light: #EBE9E2;
+    --blue: #747B60;
+    --blue-light: #92977F;
+    --white: #252720;
+    --muted: #77786F;
+    --border: #DEDCD3;
 }
 
 /* =========================
